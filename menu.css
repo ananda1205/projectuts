@@ -23,18 +23,11 @@ body {
   flex-wrap: wrap;
 }
 
-#title {
-  font-size: 24px;
-  font-weight: bold;
-  color: #394963;
-  font-style:italic;
 
-}
 
 #nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #e69ea0;
   font-weight: bold;
   color: #394963;
 
@@ -52,6 +45,13 @@ header {
   padding: 30px;
   background-color: #394963;
   color: white;
+}
+#title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #394963;
+  font-style:italic;
+
 }
 
 #pict {
